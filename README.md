@@ -1,6 +1,6 @@
 ### Hey, I'm Maciej 👋
 
-I build web apps, mobile apps and tailor-made software solutions for businesses. I work in SaaS and on the side I run [MakMak](https://makmak.pl) — my own brand focused on websites, iOS apps and AI training.
+I build web apps, mobile apps and tailor-made software solutions for businesses. I work in SaaS and on the side I run [MakMak] my own brand focused on websites, iOS apps and AI training.
 
 Based in Silesia, Poland.
 
