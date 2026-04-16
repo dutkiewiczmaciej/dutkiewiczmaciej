@@ -14,7 +14,7 @@ Based in Silesia, Poland.
 
 **[MakLock](https://dutkiewiczmaciej.github.io/MakLock/)** — Lock any macOS app with Touch ID or Apple Watch. Free, open source, more powerful than paid alternatives. Built with Swift/SwiftUI, notarized by Apple.
 
-[![Release](https://img.shields.io/github/v/release/dutkiewiczmaciej/MakLock?style=flat-square&label=release)](https://github.com/dutkiewiczmaciej/MakLock/releases/latest) [![Stars](https://img.shields.io/github/stars/dutkiewiczmaciej/MakLock?style=flat-square&color=FFD213)](https://github.com/dutkiewiczmaciej/MakLock/stargazers) [![License](https://img.shields.io/badge/license-MIT-white?style=flat-square)](https://github.com/dutkiewiczmaciej/MakLock/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/dutkiewiczmaciej/MakLock?style=flat-square&label=release)](https://github.com/dutkiewiczmaciej/MakLock/releases/latest) [![Downloads](https://img.shields.io/github/downloads/dutkiewiczmaciej/MakLock/total?style=flat-square&color=34C759&label=downloads)](https://github.com/dutkiewiczmaciej/MakLock/releases) [![Stars](https://img.shields.io/github/stars/dutkiewiczmaciej/MakLock?style=flat-square&color=FFD213)](https://github.com/dutkiewiczmaciej/MakLock/stargazers) [![License](https://img.shields.io/badge/license-MIT-white?style=flat-square)](https://github.com/dutkiewiczmaciej/MakLock/blob/main/LICENSE)
 
 ---
 
